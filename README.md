@@ -24,5 +24,3 @@ A Travel Management System built using **Java** and **MySQL** to simplify and st
 
 ---
 
-## 📂 Project Structure
-
